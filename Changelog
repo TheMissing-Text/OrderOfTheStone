@@ -1,10 +1,23 @@
 ### CHANGELOG ###
 Minecraft: Order of the Stone 0.1a
-  — Added Birch Wood and Trees
-  — Added Clay and Brick craft
+  — Expanded Flora:
+    • Added Birch Wood and Trees
+    • Added Pumpkins
+    • Added Several Flowers
+    • Added Short Grass
+    • Added Sugar Canes
+  — Added Clay and Brick Craft
   — Added Deer and Leather
-  — Added Craftable Books and Bookshelf
-  — Added new Minerals (Granite, Diorite, Rhyolite, Sandstone)
+  — Added Craftable Paper, Books and Bookshelf
+  — Added New Minerals (Granite, Diorite, Rhyolite, Sandstone)
+    • Added Their Brick Variants (exclude Sandstone)
+  — Added Craftable Chainmail Armor
+  — Added Shears and Changed Leather Armor Craft Recipies
+  — Added Wooden Fence
   — Fixed Stair Positioning While Placing
   — Fixed Armor Durability
   — Fixed Tool Durability
+  — Fixed Mouse Movement
+  — Fixed Player Movement
+    • Added Sneaking
+  — Fixed Chat Issues
